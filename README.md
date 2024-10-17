@@ -16,11 +16,13 @@
 <img src="./preview/1.jpg" style="width:32%">
 <img src="./preview/2.jpg" style="width:32%">
 <img src="./preview/3.jpg" style="width:32%">
-<img src="./preview/4.jpg" style="width:32%">
 </div>
 <div style="display:flex;">
+<img src="./preview/4.jpg" style="width:32%">
 <img src="./preview/5.jpg" style="width:32%">
 <img src="./preview/6.jpg" style="width:32%">
+</div>
+<div style="display:flex;">
 <img src="./preview/7.jpg" style="width:32%;">
 <img src="./preview/8.jpg" style="width:32%;">
 </div>
