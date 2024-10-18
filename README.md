@@ -5,6 +5,7 @@
  1. 用户：登录，商品购买，搜索，领取优惠券，查看订单，管理收货地址，商品评论等等
  2. 管理员：用户管理，商品管理，订单管理，用户管理，优惠券管理等等
 
+[点击我查看更多项目](https://www.yuque.com/rolling-k87y2/qrtzd0/gusuavwrtwe0ingz?singleDoc) 
 ## 二、技术栈
 1. 前端：vue框架，微信原生小程序
 2. 后端：nodejs express框架
@@ -35,3 +36,4 @@
 3. 扫一扫加我微信好友吧，请备注 购物商城小程序源码获取
 <img src="./preview/wx.jpg" style="width: 200px;">
 
+[点击我查看更多项目](https://www.yuque.com/rolling-k87y2/qrtzd0/gusuavwrtwe0ingz?singleDoc) 
